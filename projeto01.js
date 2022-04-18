@@ -50,7 +50,6 @@ for (let i = 0; i < perguntas.length; i++){
       } if (resp == "s") {
         resultadoFinal++;
       }
-
 }
 
 console.clear();
